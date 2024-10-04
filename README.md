@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @arindam-chowdhury
-- 👀 I’m interested in development and programming as well as playing chess.
-- 🌱 I’m currently a Computer Science Engineering student of Bengal Institute of Technology college.
+# Hi there, I'm Arindam 👋
+🚀 Full Stack Developer | 🎓 B.Tech in CSE | 💼 work at @hatchtag
 
+### 🔧 Technologies I work with:
+- Frontend: HTML, CSS, JavaScript, React, Angular
+- Backend: Node.js, Express
+- Databases: MySQL, MongoDB
+- DevOps: aws
+- Others: Git, GitHub, REST APIs
 
 <!---
 arindam-chowdhury/arindam-chowdhury is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
