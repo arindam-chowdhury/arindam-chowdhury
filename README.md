@@ -5,7 +5,7 @@
 - Frontend: HTML, CSS, JavaScript, React, Angular
 - Backend: Node.js, Express
 - Databases: MySQL, MongoDB
-- DevOps: aws
+- DevOps: AWS
 - Others: Git, GitHub, REST APIs
 
 <!---
