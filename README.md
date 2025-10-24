@@ -1,5 +1,5 @@
 # Hi there, I'm Arindam 👋
-🚀 Full Stack Developer | 🎓 B.Tech in CSE | 💼 work at @hatchtag
+🚀 Full Stack Developer | 🎓 B.Tech in CSE | 💼 work at @misani
 
 ### 🔧 Technologies I work with:
 - Frontend: HTML, CSS, JavaScript, React, Angular
